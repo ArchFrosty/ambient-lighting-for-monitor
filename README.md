@@ -5,7 +5,7 @@ Ambient lighting for monitor using Arduino and led strip. Screen is being contin
 alt="Demo" width="240" height="180" border="10" /></a>
 
 This project is based on [Microsoft's screen capture example using DXGI](https://code.msdn.microsoft.com/windowsdesktop/Desktop-Duplication-Sample-da4c696a) and therefore licesing in this project is bit more complex. Processing (.cpp, .h) are licensed under MIT license and only to this single file I (Igor Veres) own copyright. File SerialPort (.cpp, .h)
-is licensed under MIT too, however I am not the author or copyright holder, I did however did do minor changes to this file.
+is licensed under MIT too, however I am not the author or copyright holder, I did however do minor changes to this file.
 Copyright to other files on this project is held by Microsoft, and these files are licensed under MICROSOFT LIMITED PUBLIC LICENSE version 1.1 (provided as a file in this repo). The reason I am providing it, is because I added a function call into this sample code that calls my code.
 
 ## DISCLAIMER - please read!
